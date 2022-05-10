@@ -574,6 +574,7 @@ textarea.input {
 .info-lot__icon img {
   position: relative;
   z-index: 2;
+  margin: 2px 0px 0px 0px;
 }
 
 .info-lot__icon::after {
