@@ -2214,7 +2214,7 @@ textarea.input {
   }
 
   .control-slider-lots__link {
-    background: none;
+    background: none !important;
   }
 
   .articles__column {
